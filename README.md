@@ -1,7 +1,7 @@
 # vs_code
 ## extensions
 - Atom Keymap
-- Aya
+- Ayu
 - Code runner
 - Coverage Hutters
 - GitLens
@@ -42,4 +42,26 @@
     "python.testing.pytestEnabled": false,
     "debug.console.historySuggestions": false,
 }
+```
+
+## keybindings.json
+
+```
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+shift+c",
+        "command": "editor.action.addCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+c",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "code-runner.run"
+    },
+]
 ```
