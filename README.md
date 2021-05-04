@@ -25,6 +25,9 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.showExecutionMessage": false,
     "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName",
+    },
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
