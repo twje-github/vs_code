@@ -44,9 +44,10 @@
     "kite.showWelcomeNotificationOnStartup": false,
     "python.testing.pytestEnabled": false,
     "debug.console.historySuggestions": false,
+    "terminal.integrated.fontFamily": "FiraCode NF"
 }
 ```
-
+'FiraCode NF' can be downloaded from [nerdfonts](https://www.nerdfonts.com/)
 ## keybindings.json
 
 ```
