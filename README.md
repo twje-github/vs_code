@@ -1,6 +1,5 @@
 # vs_code
 ## extensions
-- Atom Keymap
 - Ayu
 - Code runner
 - Coverage Hutters
@@ -15,7 +14,7 @@
 - Python Docstring Generator
 - Test Explorer UI
 - Django
-- 
+- TabOut
 ## settings.json
 ```
 {
