@@ -43,7 +43,8 @@
     "kite.showWelcomeNotificationOnStartup": false,
     "python.testing.pytestEnabled": false,
     "debug.console.historySuggestions": false,
-    "terminal.integrated.fontFamily": "FiraCode NF"
+    "terminal.integrated.fontFamily": "FiraCode NF",
+     "editor.bracketPairColorization.enabled": true
 }
 ```
 'FiraCode NF' can be downloaded from [nerdfonts](https://www.nerdfonts.com/)
